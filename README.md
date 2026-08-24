@@ -18,7 +18,6 @@ Next.js app for the Mouv Africa APIs.
 ## Run locally
 
 1. Install dependencies.
-2. Create `.env.local` from `.env.example` if you want to override defaults.
 3. Run `npm run dev`.
 
 ## Notes
