@@ -1,4 +1,4 @@
-# Mouv Africa Dashboard
+# Mouv Africa
 
 Next.js app for the Mouv Africa APIs.
 
