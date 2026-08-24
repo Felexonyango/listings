@@ -49,7 +49,7 @@ export function AuthScreen({
           <div className="mt-8 space-y-3 text-center">
             <h1 className="text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">Sign in to continue.</h1>
             <p className="mx-auto max-w-sm text-sm leading-7 text-slate-600">
-              Use your Firebase credentials to open the dashboard or recover access if you forgot your password.
+              {/* Use your Firebase credentials to open the dashboard or recover access if you forgot your password. */}
             </p>
           </div>
 
