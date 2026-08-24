@@ -22,4 +22,7 @@ Next.js app for the Mouv Africa APIs.
 3. Run `npm run dev`.
 
 ## Notes
+Access listing by 
+http://localhost:3000/listings
+
 
