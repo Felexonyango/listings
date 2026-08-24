@@ -17,7 +17,7 @@ Next.js app for the Mouv Africa APIs.
 
 ## Run locally
 
-1. Install dependencies.
+1. Install dependencies (npm install)
 3. Run `npm run dev`.
 
 ## Notes
