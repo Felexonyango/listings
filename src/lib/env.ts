@@ -1,4 +1,4 @@
-const DEFAULT_FIREBASE_API_KEY = "AIzaSyBqkPnFO4DAFgSaLXnRuS4GxMRchIoiX_c";
+const DEFAULT_FIREBASE_API_KEY = "";
 const DEFAULT_CORE_BASE_URL = "https://app.mconnect.africa/core";
 
 export const env = {
